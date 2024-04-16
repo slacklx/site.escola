@@ -36,3 +36,22 @@
 .escola-conteudo{
     width: 35%;
     }
+
+
+    body{
+
+        font-family:’Poppins’,sans-serif;
+    }
+
+
+    .estudante-imagem{
+    width: 120px;
+     }
+
+     .estudante-icone{
+        width:24px;
+        }
+
+        .estudante-div {
+            text-align: center;
+            }
